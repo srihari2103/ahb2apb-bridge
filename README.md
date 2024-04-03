@@ -1,6 +1,6 @@
 Bridge top (AHB2APB Bridge) block diagram and functionality:
 <div>
-  <img alt="demo", src = ./Bridge top (AHB2APB Bridge) block diagram and functionality.png"/>
+  <img alt="demo", src = "./image1.png"/>
 </div>
 The AHB2APB bridge provides a connection between the Advanced High-Performance Bus (AHB) and Advanced Peripheral Bus (APB) in a system-on-chip (SoC) design. The bridge facilitates communication and coordination between the two bus protocols which are AHB and APB,enabling seamless data transfer and control. 
 

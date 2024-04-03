@@ -1,6 +1,7 @@
 Bridge top (AHB2APB Bridge) block diagram and functionality:
-![bridge_top](https://github.com/Rakeshgupta2020/AHB2APB-Brdige-Implementation-uisng-verilog-HDL/assets/126176140/f769b8a0-9081-4387-b1a5-f5330bd7382d)
-
+<div>
+  <img alt="demo", src = ./Bridge top (AHB2APB Bridge) block diagram and functionality.png"/>
+</div>
 The AHB2APB bridge provides a connection between the Advanced High-Performance Bus (AHB) and Advanced Peripheral Bus (APB) in a system-on-chip (SoC) design. The bridge facilitates communication and coordination between the two bus protocols which are AHB and APB,enabling seamless data transfer and control. 
 
 Bridge top module is a AHB slave which comprises of submodules called AHB slave interface and APB controller 
